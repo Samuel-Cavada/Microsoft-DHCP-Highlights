@@ -5,3 +5,5 @@
 </p>
 
 # Microsoft-DHCP-Highlights
+
+➜ Managed IP address assignments and scope settings through Microsoft DHCP, supporting efficient and secure network operations.
