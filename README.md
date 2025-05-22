@@ -4,6 +4,10 @@
   </a>
 </p>
 
-# Microsoft-DHCP-Highlights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/Microsoft-DHCP-Highlights/main/images/DHCP.png" alt="Microsoft DHCP Highlights" width="600">
+</p>
 
-➜ Managed IP address assignments and scope settings through Microsoft DHCP, supporting efficient and secure network operations.
+> This section demonstrates experience managing dynamic IP address assignments and maintaining reliable network connectivity using Microsoft DHCP.
+
+- Managed IP address assignments and scope settings through Microsoft DHCP to support efficient and secure network operations.
